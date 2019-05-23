@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>The Lifejacket Mission Impact of Your Gift</title>
+	<style>
+		body{
+		  font-family:palatino;
+      background-color:rgb(244, 213, 90);
+    }
+		.Title{
+        background-color:rgb(63, 72, 204);
+        color:rgb(47, 237, 186);
+        font-family:palatino;
+		    font-size:30px;
+        top:0px;
+        position:relative;
+    }
+    .Family_in_Lifejackets{
+      width: 63%;
+      position:relative;
+      clear:both;
+      border:4px solid blue;
+    }
+    
+    .logo{
+      width: 100px;
+      top:0px;
+    }
+    .info{
+      position:relative;
+      margin-bottom:30px;
+      background-color:rgb(200, 200, 200);
+      padding:6px;
+      border:2px solid gray;
+      width:61%;
+      z-index:-1;
+      font-size:20px;
+      overflow:hidden;
+    }
+    .side-bar{
+      background-color:rgb(219, 219, 219);
+      width:29%;
+      float:right; 
+      padding:6px;
+      font-size:30px;
+      text-align:center;
+      border:4px solid blue;
+      clear:both;
+      margin-bottom:30px;
+    }
+    .Noah_Nathan_in_lifejackets{
+      background-color:rgb(219, 219, 219);
+      width:90%;
+  
+    }
+    
+    .footer{
+      text-align:center;
+      position:relative;
+      margin-width:100%;
+      background-color:gray;
+      padding:6px;
+      clear:both;
+      overflow:hidden;
+      border:2px solid rgb(80 80 80);
+    }
+    .Our_Mission{
+      border:4px dotted rgb(80 80 80);
+      overflow:hidden;
+    }
+    .Impact_of_Your_Gift{
+      border:4px dotted rgb(80 80 80);
+      overflow:hidden;
+    }
+    .Sponsor_Us{
+      border:4px dotted rgb(80 80 80);
+      overflow:hidden;
+    }
+  </style>
+</head>  
+<body>
+  
+    <div class="Title">
+      <h1>
+        <a href="https://TheLifeJacketMission.github.io">
+        <img class="logo" src="https://i.ibb.co/MDwzKcd/aaa451ab46c359667acb82f2faf85f1f1d.png"alt="The Lifejacket Mission Logo"></a>
+        The Life Jacket Mission
+      </h1>
+    </div>
+  <img class="Family_in_Lifejackets" src="https://i.ibb.co/VmYxfsH/Family-in-Lifejackets.jpg" alt="Family-in-Lifejackets">
+  <div class="side-bar">
+    <img class="Noah_Nathan_in_lifejackets" src="https://i.ibb.co/wwfpHFX/Nathan-and-Noah-in-Lifejackets.jpg">
+    <a href="https://TheLifeJacketMission.github.io/our-mission">
+    <br><br>
+    <div class="Our_Mission">
+    Our Mission</div></a>
+    <br> <br>
+    <a href="https://TheLifeJacketMission.github.io/impact-of-your-gift">
+    <div class="Impact_of_Your_Gift">Impact of Your Gift</div></a> <br> <br>
+    <a href="https://TheLifeJacketMission.github.io/sponsor-us/">
+    <div class="Sponsor_Us">Sponsor Us!</div></a><br>
+  </div>
+  <p>
+  <div class="info">
+    <strong>Sponsor Us!</strong> <br>
+
+    If you chose to sponsor us, send the form and check to 2000, Lindsay Lane, Bellingham, WA 98229.<br>
+    You can view the sponsorship form 
+    <a target="_blank" href="https://lifejacket-mission-sponsorship-form--theaquaticnoah.repl.co/">here</a>.<br>
+    To take a screenshot of the page do: <br>
+    <strong>Windows 10:</strong>[Win]+[Prt Sc]<br>
+    <strong>Mac:</strong>[Shift]+[Command]+[4]<br>
+    <strong>iPhone/iPad/iPod:</strong>[Home]+[Power]<br>
+    <strong>Android 4.0:</strong>[Vol Down]+[Power]
+  </div>
+  
+  
+  <div class="footer">
+    <p>
+      For further information, please contact Nathan Chen, at (360)-305-6785 or email at <br> nathanzchen01@gmail.com
+    </p>
+  </div>
+</body>
+
+</html>
